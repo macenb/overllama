@@ -54,14 +54,14 @@ If we take a closer look at the xor, we find that it follows a very specific pat
 flag{.......
 keyval
 xxxxxxxxxxxxxx
- keyval
+.keyval
 xyyyyyyyyyyyyy
-  keyval
+..keyval
 xyzzzzzzzzzzzz
 ```
 And so forth. So the first value of our encrypted flag has only been xored by the first value of our key. Once we determine this, we can realize that our second value has only been xored by the first and second value of our key, so once we learn the first value we can determine the second. This pattern can be used to find all the characters of the key, since we know the first, second, and last characters of the flag. Here is the solve script:
 
-```python
+```py
 from base64 import b64decode
 
 ct = b64decode("LEs2fVVxNDMfNHEtcx80cB8nczQfJhVkDHI/Ew==")
@@ -102,4 +102,4 @@ if __name__ == "__main__":
     print(crack(key, ciphertext))
 ```
 
-Flag: flag{1ts_t1m3_t0_g3t_fUnkee}
+Flag: `flag{1ts_t1m3_t0_g3t_fUnkee}`
