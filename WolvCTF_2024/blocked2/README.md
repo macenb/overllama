@@ -15,11 +15,11 @@ Files:
 
 So this challenge is set up as a server that hands you some encrypted text and then gives you the opportunity to encrypt your own message. The setup is very similar to AES-CBC, since it is AES-ECB built in a block cipher. The cipher works by encrypting first the IV and XORing it with the first block of plaintext, then doing the same block by block through the plaintext. Since the plaintext is one block shorter than the IV plus the plaintext, we end up with the last block not being XORed.
 
-![img](./cipher_concept.jpg)
+<img src="cipher_concept.jpg" alt="Cipher" width="200"/>
 
 The idea for the solve is that if we can find the ciphertext any of the encrypted sections, we can XOR it with the associated block to find each respective component of the flag.
 
-![img](./solve_concept.jpg)
+<img src="solve_concept.jpg" alt="Solve" width="200"/>
 
 Since the flag generation gives us the original IV, we know the first block of the passed plaintext and just need to encrypt it to get our first block of plaintext. Since the last block of ciphertext is non-XORed, if we pass just one block of plaintext, we should be able to return the raw ciphertext of our IV if we pass it in! I passed a preliminary set of parameters to test my theory:
 
