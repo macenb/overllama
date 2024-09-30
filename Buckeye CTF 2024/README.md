@@ -2,22 +2,22 @@
 
 ## PWN
 
-- [Calculator](./calculator.md)
-- [DISA](./disa.md)
+- [Calculator](./challenges/calculator.md)
+- [DISA](./challenges/disa.md)
 
 ## Crypto
 
-- [Hashbrown](./hashbrown.md)
-- [zkwarmup](./zkwarmup.md)
+- [Hashbrown](./challenges/hashbrown.md)
+- [zkwarmup](./challenges/zkwarmup.md)
 
 ## Rev
 
-- [thank](./thank)
+- [thank](./challenges/thank)
 
 ## Forensics
 
-- [wreck](./wreck.md)
+- [wreck](./challenges/wreck.md)
 
 ## Web
 
-- [homecooked](./homecooked.md)
+- [homecooked](./challenges/homecooked.md)
