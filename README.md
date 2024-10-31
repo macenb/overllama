@@ -1,5 +1,3 @@
-# overllama
-
 This site contains bulk write ups from CTFs that I've competed in with the team [BYU Cyberia](https://ctftime.org/team/155711). The format of this home page includes a highlighted recent CTF I did as well as links to all challenge write ups by category
 
 ### SAINTCON Hacker's Challenge
