@@ -6,6 +6,8 @@ This site contains bulk write ups from CTFs that I've competed in with the team 
 
 I won the first place in the Hacker's Challenge and the black badge at SAINTCON 2024!! Challenge write ups to come :)
 
+- [Twisted](./RE/Twisted/): this was a compiled C++ binary re challenge. It was a lot of fun and I learned some cool Python tricks afterwards
+
 ### All Challenges
 
 #### Crypto
@@ -42,6 +44,7 @@ I won the first place in the Hacker's Challenge and the black badge at SAINTCON 
 - [Emoticonsole 2 - USCyberGames Open 2024](./RE/Emoticonsole%202/)
 - [Limited 2 - WolvCTF 2024](./RE/limited2/)
 - [Thank - BuckeyeCTF 2024](./RE/Thank/)
+- [Twisted - SAINTCON Hacker's Challenge 2024](./RE/Twisted/)
 
 #### Web
 
