@@ -1,5 +1,7 @@
 This site contains bulk write ups from CTFs that I've competed in with the team [BYU Cyberia](https://ctftime.org/team/155711). The format of this home page includes a highlighted recent CTF I did as well as links to all challenge write ups by category
 
+Contact: @overllama on Discord : [LinkedIn](https://www.linkedin.com/in/macen-bird/)
+
 ### SAINTCON Hacker's Challenge
 
 I won the first place in the Hacker's Challenge and the black badge at SAINTCON 2024!! Challenge write ups to come :)
