@@ -2,6 +2,8 @@ This site contains bulk write ups from CTFs that I've competed in with the team 
 
 Contact: @overllama on Discord : [LinkedIn](https://www.linkedin.com/in/macen-bird/)
 
+Note: if you're trying to get started in CTFs, check out my resources page! It's a list of all the stuff I've ever seen (and that looks semi-decent) as far as learning CTFs goes. Feel free to reach out to me about any of them (though if it says "potentially" I probably haven't personally used it)
+
 ### SAINTCON Hacker's Challenge
 
 I won the first place in the Hacker's Challenge and the black badge at SAINTCON 2024!! Challenge write ups to come :)
