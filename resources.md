@@ -29,7 +29,7 @@
 - [CryptoPals](https://cryptopals.com/) - challenges, also in a guided manner. Much more subsequent depth in a linear fashion
 - [BlockBreakers](https://www.davidwong.fr/blockbreakers/aes.html) - guide to AES and associated cryptanalysis
 - [An Introduction to Mathematical Cryptography (Book)](https://github.com/isislovecruft/library--/blob/master/cryptography%20%26%20mathematics/An%20Introduction%20to%20Mathematical%20Cryptography%20(2014)%20-%20Hoffstein%2C%20Pipher%2C%20Silverman.pdf) - gold standard in cryptography books
-- [Blupper's blog](https://theblupper.github.io/blog/posts/lattices/) - a top-notch beginner's guide to lattices and lattice reduction
+- [Blupper's blog](https://valter.wiki/blog/lattices/) - a top-notch beginner's guide to lattices and lattice reduction
 - [A Gentle Tutorial for Lattice-Based Cryptanalysis](https://github.com/josephsurin/lattice-based-cryptanalysis/blob/main/tutorial.pdf) - second step after you know what a lattice is, goes further into depth
 - [Cryptography 101](https://cryptography101.ca/) - lots of great tutorials / articles on cryptography (includes a lot of newer algorithms and methods fro post-quantum era cryptography)
 
