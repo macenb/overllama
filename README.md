@@ -23,6 +23,7 @@ I played DiceCTF in March 2025 with [Monosodium Glutamate; Or, the Best Team](ht
 
 #### Forensics
 
+- [Smart Exfil - UNDCTF 2024](./Forensics/Smart%20Exfil/)
 - [Certified - USCyberGames Open 2024](./Forensics/Certified/)
 - [Emoji Hunt 2 - SquareCTF 2023](./Forensics/emoji_hunt_2-microwave/)
 - [My Daily Macros - BuckeyeCTF 2023](./Forensics/myDailyMacros/)
